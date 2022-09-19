@@ -1,0 +1,4 @@
+[submodule "oskrbass/minutas"]
+	path = oskrbass/minutas
+	url = git@github.com:oskrbass/minutas.git
+	branch = main
